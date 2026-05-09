@@ -1,0 +1,101 @@
+---
+layout: page
+title: Vegetarian Friendly
+description: Plant-based Korean dining at its finest — fresh, wholesome, and full of heart.
+nav-menu: false
+---
+
+<section id="one">
+  <div class="inner">
+
+    <header class="major">
+      <h1>Vegetarian Friendly</h1>
+    </header>
+
+    <p>
+      At Namcheon Maru, we believe everyone deserves a bowl full of warmth and tradition.
+      All of our vegetarian dishes are prepared with the same care and devotion as our signature bibimbap —
+      using fresh local ingredients, house-made sauces, and recipes rooted in the heart of Jeonju.
+    </p>
+    <p>
+      Please let us know your dietary preferences when ordering, and we'll make sure your meal is prepared just right.
+    </p>
+
+    <hr class="major" />
+
+    <h2>Our Vegetarian Menu</h2>
+
+    <div class="row">
+
+      <div class="col-12">
+        <h3>🥣 Soy Sauce Bibimbap (간장비빔밥) — ₩13,000</h3>
+        <p>
+          Our signature dish, reimagined for vegetarian guests.
+          Fresh seasonal vegetables, premium rice, and our house-aged golden soy sauce —
+          no meat, no compromise. Every ingredient is thoughtfully selected to deliver
+          the same depth of flavor our guests love.
+        </p>
+        <p><em>Please request the vegetarian option when ordering. We'll take care of the rest.</em></p>
+      </div>
+
+      <div class="col-12">
+        <hr />
+        <h3>🍮 Red Bean Porridge with rice balls (팥죽) - ₩12,000 </h3>
+        <p>
+          A deeply comforting Korean classic — slow-simmered red beans blended into a smooth,
+          velvety porridge with soft rice balls (새알심). Naturally sweet, warming,
+          and entirely plant-based. A bowl that feels like a quiet moment of stillness.
+        </p>
+      </div>
+
+      <div class="col-12">
+        <hr />
+        <h3>🍜 Red Bean Noodle Soup (팥칼국수) - ₩10,000 </h3>
+        <p>
+          Hand-cut wheat noodles simmered in our signature red bean broth.
+          Subtly sweet, deeply savory, and wholly plant-based.
+          Warm, nourishing, and unlike anything you've tried before —
+          a uniquely Jeonju experience in every sip.
+        </p>
+      </div>
+
+    </div>
+
+    <hr class="major" />
+
+    <h2>🥢 Complimentary Side Dishes</h2>
+    <p>Every dish is served with our house-prepared banchan (Korean side dishes):</p>
+    <ul>
+      <li>
+        <strong>Geotjeori Kimchi (겉절이 김치)</strong> — Fresh, lightly seasoned kimchi. Crisp and vibrant.
+        <br /><em>Please note: our kimchi is made with fish sauce. It is not suitable for strict vegans or pescatarian-free diets.</em>
+      </li>
+      <li>
+        <strong>Kkakdugi (깍두기)</strong> — Cubed radish kimchi with a satisfying crunch and gentle tang.
+        <br /><em>Please note: our kkakdugi also contains fish sauce. Please let us know if you have any concerns.</em>
+      </li>
+      <li>
+        <strong>Danmuji (단무지)</strong> — Sweet pickled radish. A classic Korean table staple. Fully plant-based.
+      </li>
+    </ul>
+    <p><em>All side dishes are made in-house and refreshed daily. If you have specific dietary requirements, please don't hesitate to ask — we're always happy to help.</em></p>
+
+    <hr class="major" />
+
+    <h2>Good to Know</h2>
+    <ul>
+      <li><strong>Hours:</strong> 11:00 AM – 7:00 PM (Last order 6:40 PM)</li>
+      <li><strong>Break time:</strong> 3:00 PM – 5:00 PM</li>
+      <li><strong>Closed:</strong> Every Tuesday</li>
+      <li><strong>Minimum order:</strong> 2 persons required. If other guests are already ordering, 1 person is welcome — please inquire.</li>
+    </ul>
+
+    <hr class="major" />
+
+    <ul class="actions">
+      <li><a href="index.html" class="button">← Back to Menu</a></li>
+      <li><a href="#footer" class="button next scrolly">Reserve a Table</a></li>
+    </ul>
+
+  </div>
+</section>
