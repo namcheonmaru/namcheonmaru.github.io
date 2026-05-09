@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 
 {% include head.html %}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
 <body>
 
@@ -16,12 +15,13 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
+                <h1>Namcheon Maru</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <p>Experience the "Golden Umami" of our unique Soy Sauce Bibimbap.<br />
+                Authentic comfort in the heart of the historic Hanok Village.</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" class="button next scrolly">Discover the Taste</a></li>
                 </ul>
             </div>
         </div>
@@ -30,18 +30,110 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
+        <!-- Tiles -->
+        <section id="one" class="tiles">
+
+            <article>
+                <span class="image">
+                    <img src="https://res.cloudinary.com/daz6qvavi/image/upload/w_600,h_400,c_fill,f_auto,q_auto/bibimbap_i4tbho" alt="Signature Soy Sauce Bibimbap" />
+                </span>
+                <header class="major">
+                    <h3><a href="bibimbap.html" class="link">The Golden Bibimbap</a></h3>
+                    <p>Experience our world-unique Soy Sauce Bibimbap. No spicy gochujang, just pure savory Umami that highlights the natural flavors of fresh local herbs.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/veggie.jpg" alt="Vegetarian Options" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">Plant-Based Joy</a></h3>
+                    <p>Mindful dining for everyone. Discover our wholesome vegetarian-friendly selections, featuring the natural essence of mountain herbs and artisan soy sauce.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/noodles.jpg" alt="Handmade Kalguksu" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">Artisan Noodle Bowls</a></h3>
+                    <p>From refreshing Clam Noodle Soup to our deep, velvety Red Bean Porridge Noodles—crafted by hand, served with warmth.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/soba.jpg" alt="Refreshing Summer Soba" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">A Cool Summer Oasis</a></h3>
+                    <p>Escape the heat with our chilled buckwheat soba. Bathed in an icy, deeply savory broth, it's a revitalizing bowl that feels like a cool breeze.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/dumplings.jpg" alt="Juicy Dumplings" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">Juicy Dumplings</a></h3>
+                    <p>Small bites, big flavor. Each dumpling is packed with a savory mix of premium ingredients, offering a satisfying burst of juice in every bite.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/interior.jpg" alt="Hanok Interior" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">Authentic Hanok Vibes</a></h3>
+                    <p>Step into a world of timeless elegance. Our interior preserves the warm, wooden textures of a traditional house, providing a peaceful sanctuary.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/reviews.jpg" alt="Guest Reviews" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">A Traveler's Favorite</a></h3>
+                    <p>"The Soy Sauce Bibimbap was an elegant revelation. It's the most sophisticated Korean meal I've had in the village."</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/view.jpg" alt="Interior with Hanok View" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">The Heart Behind 'Maru'</a></h3>
+                    <p>'Namcheon' honors the beautiful bridge just outside our doors, while 'Maru' means a high place. Together, they represent our sincere promise.</p>
+                </header>
+            </article>
+
+            <article>
+                <span class="image">
+                    <img src="images/bridge.jpg" alt="Namcheon Bridge" />
+                </span>
+                <header class="major">
+                    <h3><a href="#contact" class="link">Stroll the Heritage</a></h3>
+                    <p>Located steps away from Namcheon Bridge. After your meal, walk through the timeless beauty of the historic Hanok Village.</p>
+                </header>
+            </article>
+
+        </section>
 
         <!-- Two -->
         <section id="two">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2>Ready to Taste Tradition?</h2>
                 </header>
-                <p>{{ content }}</p>
+                <p>We take pride in using only the freshest local ingredients to recreate the authentic flavors of the Hanok Village. Join us for a meal that feeds your soul and offers a window into our rich heritage.</p>
                 <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
+                    <li><a href="#contact" class="button next scrolly">Book Your Table</a></li>
                 </ul>
             </div>
         </section>
@@ -51,5 +143,4 @@
     {% include footer.html %}
 
 </body>
-
 </html>

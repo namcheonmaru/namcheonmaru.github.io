@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Namcheon Maru
+subtitle: Hanok Village · Jeonju
+email: namcheonmaru@gmail.com
+description: Authentic Korean dining in Jeonju Hanok Village.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Namcheon Maru
+street_address: 66, Jeonjucheondong-ro, Wansan-gu, , , Republic of Korea
+city: Jeonju-si
+state: Jeonbuk-do
+zip_code: 55045
+country: Republic of Korea
+phone: +82-63-282-3330
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

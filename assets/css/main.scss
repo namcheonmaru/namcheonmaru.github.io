@@ -78,3 +78,88 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+	// ─── Namcheon Maru Custom ───────────────────────────────
+
+body, input, select, textarea, p, a, span, .button {
+  font-family: 'Lora', serif !important;
+  text-transform: none !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+#header .logo strong, #header .logo span {
+  font-family: 'Playfair Display', serif !important;
+  letter-spacing: 0.02em;
+}
+
+#banner .content p {
+  font-style: italic;
+  font-size: 0.95em !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+  word-spacing: normal !important;
+  max-width: 900px;
+  line-height: 2;
+  color: #D4A017 !important;
+}
+
+#one.tiles article {
+  border: 6px solid #242943 !important;
+  box-sizing: border-box !important;
+}
+
+// bibimbap 타일 배경 이미지
+#one.tiles article:nth-child(1) {
+  background-image: url('https://res.cloudinary.com/daz6qvavi/image/upload/w_600,h_400,c_fill,f_auto,q_auto/bibimbap_i4tbho') !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+// ::before 오버레이 색상 (이미지 위에 반투명하게 덮음)
+#one.tiles article:nth-child(1)::before {
+  background-color: #A36B55 !important;
+  opacity: 0.55 !important;
+}
+
+// ::after 제거
+#one.tiles article:nth-child(1)::after {
+  display: none !important;
+}
+
+#one.tiles article:nth-child(1) h3,
+#one.tiles article:nth-child(1) p {
+  color: #FFF8E7 !important;
+}
+
+
+#one.tiles article:nth-child(2),
+#one.tiles article:nth-child(2)::before,
+#one.tiles article:nth-child(2)::after { background-color: #6B705C !important; }
+
+#one.tiles article:nth-child(3),
+#one.tiles article:nth-child(3)::before,
+#one.tiles article:nth-child(3)::after { background-color: #8C7B6A !important; }
+
+#one.tiles article:nth-child(4),
+#one.tiles article:nth-child(4)::before,
+#one.tiles article:nth-child(4)::after { background-color: #2E3B4E !important; }
+
+#one.tiles article:nth-child(5),
+#one.tiles article:nth-child(5)::before,
+#one.tiles article:nth-child(5)::after { background-color: #3E4A3D !important; }
+
+#one.tiles article:nth-child(6),
+#one.tiles article:nth-child(6)::before,
+#one.tiles article:nth-child(6)::after { background-color: #5E4B3C !important; }
+
+#one.tiles article:nth-child(7),
+#one.tiles article:nth-child(7)::before,
+#one.tiles article:nth-child(7)::after { background-color: #3C3D42 !important; }
+
+#one.tiles article:nth-child(8),
+#one.tiles article:nth-child(8)::before,
+#one.tiles article:nth-child(8)::after { background-color: #55585C !important; }
+
+#one.tiles article:nth-child(9),
+#one.tiles article:nth-child(9)::before,
+#one.tiles article:nth-child(9)::after { background-color: #7D5A50 !important; }
