@@ -37,8 +37,7 @@ nav-menu: false
     <div class="row">
       <div class="col-6 col-12-small">
         <h3>✨ Golden Soy Sauce</h3>
-        <p>Our house-made soy sauce is over 20 years aged, balanced, and unlike anything 
-        you've tasted in a bibimbap with a Savory depth .</p>
+        <p> Crafted from a treasured family recipe and aged for over 20 years, our house-made soy sauce brings a deep, rich umami unlike anything you've ever tasted in bibimbap. A timeless flavor passed down through generations. </p>
       </div>
 
       <div class="col-6 col-12-small">
