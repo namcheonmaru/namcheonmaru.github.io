@@ -37,7 +37,7 @@ nav-menu: false
     <div class="row">
       <div class="col-6 col-12-small">
         <h3>✨ Golden Soy Sauce</h3>
-        <p>Our house-made soy sauce is aged, balanced, and unlike anything 
+        <p>Our house-made soy sauce is over 20 years aged, balanced, and unlike anything 
         you've tasted in a bibimbap with a Savory depth .</p>
       </div>
 
@@ -48,10 +48,7 @@ nav-menu: false
         The selection changes with the season — always fresh, always intentional.</p>
       </div>
       <div class="col-6 col-12-small">
-        <h3>🥚Farm Fresh Egg </h3>
-        <p>A slow-cooked egg sits at the center, its yolk rich and golden. 
-        When mixed, it binds every ingredient into a silky, cohesive whole.</p>
-      </div>
+
       <div class="col-6 col-12-small">
         <h3>🍚 Timeless Korean Yugi Bowl </h3>
         <p> Authentic Korean flavors, freshly prepared and served in timeless Korean Yugi(Brass) Bowl. </p>
