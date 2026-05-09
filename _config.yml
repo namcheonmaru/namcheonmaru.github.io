@@ -6,7 +6,7 @@ description: Authentic Korean dining in Jeonju Hanok Village.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Namcheon Maru
-street_address: 66, Jeonjucheondong-ro, Wansan-gu, , , Republic of Korea
+street_address: 66, Jeonjucheondong-ro, Wansan-gu
 city: Jeonju-si
 state: Jeonbuk-do
 zip_code: 55045
