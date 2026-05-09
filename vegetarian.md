@@ -9,7 +9,7 @@ nav-menu: false
   <div class="inner">
 
     <header class="major">
-      <h1 style="color: #FDFBF7;">Vegetarian Friendly</h1>
+      <h1 style="color: #E6D5B8;">Vegetarian Friendly</h1>
     </header>
 
     <p>
@@ -23,7 +23,7 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #D4AF37;">Our Vegetarian Menu</h2>
+    <h2 style="color: #E6D5B8;">Our Vegetarian Menu</h2>
 
     <div class="row">
 
@@ -64,7 +64,7 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #D4AF37;">🥢 Complimentary Side Dishes</h2>
+    <h2 style="color: #E6D5B8">🥢 Complimentary Side Dishes</h2>
     <p>Every dish is served with our house-prepared banchan (Korean side dishes):</p>
     <ul>
       <li>
@@ -83,12 +83,12 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #D4AF37;">Good to Know</h2>
+    <h2 style="color: #E6D5B8;">Good to Know</h2>
     <ul>
       <li><strong>Hours:</strong> 11:00 AM – 7:00 PM (Last order 6:40 PM)</li>
       <li><strong>Break time:</strong> 3:00 PM – 5:00 PM</li>
       <li><strong>Closed:</strong> Every Tuesday</li>
-      <li><strong>Minimum order:</strong> 2 persons required. If other guests are already ordering, 1 person is welcome — please inquire.</li>
+      <li><strong>Bibimbap Minimum order:</strong> 2 persons required. If other guests are already ordering, 1 person is welcome — please inquire.</li>
     </ul>
 
     <hr class="major" />
