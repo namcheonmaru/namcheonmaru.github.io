@@ -2,7 +2,7 @@
 layout: page
 title: The Golden Bibimbap
 description: Our signature Soy Sauce Bibimbap — a world-unique experience
-image: <img src="https://res.cloudinary.com/daz6qvavi/image/upload/w_1200,f_auto,q_auto/bibimbap_i4tbho" alt="Signature Soy Sauce Bibimbap" />
+image: https://res.cloudinary.com/daz6qvavi/image/upload/w_1200,f_auto,q_auto/v1778305927/bibimbap_qxlzrj.png
 nav-menu: false
 ---
 
@@ -14,7 +14,7 @@ nav-menu: false
     </header>
 
     <span class="image main">
-  <img src="https://res.cloudinary.com/daz6qvavi/image/upload/w_1200,f_auto,q_auto/bibimbap_i4tbho" alt="Signature Soy Sauce Bibimbap" />
+  <img src="https://res.cloudinary.com/daz6qvavi/image/upload/w_1200,f_auto,q_auto/v1778305927/bibimbap_qxlzrj.png" alt="Signature Soy Sauce Bibimbap" />
     </span>
 
     <h2>A Bowl Unlike Any Other</h2>
@@ -47,9 +47,8 @@ nav-menu: false
         When mixed, it binds every ingredient into a silky, cohesive whole.</p>
       </div>
       <div class="col-6 col-12-small">
-        <h3>🍚 Premium Rice</h3>
-        <p>Cooked to order in a Korean Yugi(Brass) Bowl. 
-        Authentic Korean flavors, served with timeless elegance. </p>
+        <h3>🍚 Timeless Korean Yugi Bowl </h3>
+        <p> Authentic Korean flavors, freshly prepared and served in timeless Korean Yugi(Brass) Bowl. </p>
       </div>
       <div class="col-6 col-12-small">
         <h3>✨ Golden Soy Sauce</h3>
