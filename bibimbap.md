@@ -2,7 +2,7 @@
 layout: page
 title: The Golden Bibimbap
 description: Our signature Soy Sauce Bibimbap — a world-unique experience
-image: images/bibimbap.jpg
+image: <img src="https://res.cloudinary.com/daz6qvavi/image/upload/w_1200,f_auto,q_auto/bibimbap_i4tbho" alt="Signature Soy Sauce Bibimbap" />
 nav-menu: false
 ---
 
@@ -27,7 +27,7 @@ nav-menu: false
     <p>
       The result is a bowl of pure umami. No heat, no overwhelm. 
       Just the clean, honest flavors of fresh mountain herbs, 
-      seasonal vegetables, and premium stone-pot rice — 
+      seasonal vegetables, and premium rice — 
       brought together by our signature golden sauce.
     </p>
 
@@ -37,25 +37,24 @@ nav-menu: false
     <div class="row">
       <div class="col-6 col-12-small">
         <h3>🌿 Seasonal Vegetables</h3>
-        <p>Hand-picked local greens from Jeollabuk-do farms. 
+        <p>Hand-picked local greens from local farms. 
         Blanched, seasoned, and arranged with care. 
         The selection changes with the season — always fresh, always intentional.</p>
       </div>
       <div class="col-6 col-12-small">
-        <h3>🥚 Free-Range Egg</h3>
+        <h3>🥚Farm Fresh Egg </h3>
         <p>A slow-cooked egg sits at the center, its yolk rich and golden. 
         When mixed, it binds every ingredient into a silky, cohesive whole.</p>
       </div>
       <div class="col-6 col-12-small">
-        <h3>🍚 Stone-Pot Rice</h3>
-        <p>Cooked to order in a traditional dolsot. 
-        The bottom layer develops a delicate crust — 
-        nutty, fragrant, and impossible to replicate.</p>
+        <h3>🍚 Premium Rice</h3>
+        <p>Cooked to order in a Korean Yugi(Brass) Bowl. 
+        Authentic Korean flavors, served with timeless elegance. </p>
       </div>
       <div class="col-6 col-12-small">
         <h3>✨ Golden Soy Sauce</h3>
         <p>Our house-made soy sauce is aged, balanced, and unlike anything 
-        you've tasted in a bibimbap. Savory depth without a single drop of chili.</p>
+        you've tasted in a bibimbap with a Savory depth .</p>
       </div>
     </div>
 
@@ -64,19 +63,18 @@ nav-menu: false
     <h2>How to Eat It</h2>
     <p>
       The art of bibimbap is in the mix. Pour the golden soy sauce over the bowl, 
-      then fold everything together with a spoon — slowly, deliberately. 
+      then fold everything together with a traditional Korean metal chopsticks — slowly, deliberately. 
       Watch the colors blend. Smell the sesame rise. 
       Then take the first bite. Everything else disappears.
     </p>
 
     <hr class="major" />
 
-    <h2>Price & Availability</h2>
+   <h2>Price & Availability</h2>
     <ul>
-      <li><strong>Soy Sauce Bibimbap (간장비빔밥)</strong> — Available daily</li>
-      <li><strong>Hours:</strong> 11:00 AM – 7:00 PM (Last order 6:40 PM)</li>
-      <li><strong>Break time:</strong> 3:00 PM – 5:00 PM</li>
-      <li><strong>Closed:</strong> Every Tuesday</li>
+      <li><strong>Soy Sauce Bibimbap (간장비빔밥)</strong> — ₩13,000</li>
+      <li><strong>Minimum order:</strong> 2 persons required. If other guests are already ordering, 1 person is welcome — please inquire.</li>
+      <li><strong>Vegetarian option:</strong> Available upon request.</li>
     </ul>
 
     <hr class="major" />
