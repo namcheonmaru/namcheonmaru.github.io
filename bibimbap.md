@@ -46,8 +46,8 @@ nav-menu: false
         The selection changes with the season — always fresh, always intentional.</p>
       </div>
       <div class="col-6 col-12-small">
-        <h3>🍚 Timeless Korean Yugi Bowl</h3>
-        <p>Authentic Korean flavors, freshly prepared and served in timeless Korean Yugi(Brass) Bowl.</p>
+        <h3>🍚 Premium Rice </h3>
+        <p>Carefully prepared rice, served in timeless Korean Yugi bowls.</p>
       </div>
     </div>
 
