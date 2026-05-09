@@ -9,7 +9,7 @@ nav-menu: false
   <div class="inner">
 
     <header class="major">
-      <h1>Vegetarian Friendly</h1>
+      <h1 style="color: #FDFBF7;">Vegetarian Friendly</h1>
     </header>
 
     <p>
@@ -23,13 +23,13 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2>Our Vegetarian Menu</h2>
+    <h2 style="color: #D4AF37;">Our Vegetarian Menu</h2>
 
     <div class="row">
 
       <div class="col-12">
         <hr />
-        <h3>🥣 Soy Sauce Bibimbap (간장비빔밥) — ₩13,000</h3>
+        <h3 style="color: #E6D5B8;">🥣 Soy Sauce Bibimbap (간장비빔밥) — ₩13,000</h3>
         <p>
           Our signature dish, reimagined for vegetarian guests.
           Fresh seasonal vegetables, premium rice, and our house-aged golden soy sauce —
@@ -41,7 +41,7 @@ nav-menu: false
 
       <div class="col-12">
         <hr />
-        <h3>🍮 Red Bean Porridge with rice balls (팥죽) - ₩12,000 </h3>
+        <h3 style="color: #E6D5B8;">🍮 Red Bean Porridge with rice balls (팥죽) - ₩12,000 </h3>
         <p>
           A deeply comforting Korean classic — slow-simmered red beans blended into a smooth,
           velvety porridge with soft rice balls (새알심). Naturally sweet, warming,
@@ -51,7 +51,7 @@ nav-menu: false
 
       <div class="col-12">
         <hr />
-        <h3>🍜 Red Bean Noodle Soup (팥칼국수) - ₩10,000 </h3>
+        <h3 style="color: #E6D5B8;">🍜 Red Bean Noodle Soup (팥칼국수) - ₩10,000 </h3>
         <p>
           Hand-cut wheat noodles simmered in our signature red bean broth.
           Subtly sweet, deeply savory, and wholly plant-based.
@@ -64,7 +64,7 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2>🥢 Complimentary Side Dishes</h2>
+    <h2 style="color: #D4AF37;">🥢 Complimentary Side Dishes</h2>
     <p>Every dish is served with our house-prepared banchan (Korean side dishes):</p>
     <ul>
       <li>
@@ -83,7 +83,7 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2>Good to Know</h2>
+    <h2 style="color: #D4AF37;">Good to Know</h2>
     <ul>
       <li><strong>Hours:</strong> 11:00 AM – 7:00 PM (Last order 6:40 PM)</li>
       <li><strong>Break time:</strong> 3:00 PM – 5:00 PM</li>
