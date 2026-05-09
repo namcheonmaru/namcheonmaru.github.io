@@ -68,9 +68,6 @@ nav-menu: false
       <li><strong>Soy Sauce Bibimbap (간장비빔밥)</strong> — ₩13,000</li>
       <li><strong>Minimum order:</strong> 2 persons required. If other guests are already ordering, 1 person is welcome — please inquire.</li>
       <li><strong>Vegetarian option:</strong> Available upon request.</li>
-      <li><strong>Hours:</strong> 11:00 AM – 7:00 PM (Last order 6:40 PM)</li>
-      <li><strong>Break time:</strong> 3:00 PM – 5:00 PM</li>
-      <li><strong>Closed:</strong> Every Tuesday</li>
     </ul>
 
     <hr class="major" />
