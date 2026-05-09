@@ -28,6 +28,7 @@ nav-menu: false
     <div class="row">
 
       <div class="col-12">
+        <hr />
         <h3>🥣 Soy Sauce Bibimbap (간장비빔밥) — ₩13,000</h3>
         <p>
           Our signature dish, reimagined for vegetarian guests.
