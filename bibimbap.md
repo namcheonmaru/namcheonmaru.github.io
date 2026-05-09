@@ -36,6 +36,12 @@ nav-menu: false
     <h2>What's Inside</h2>
     <div class="row">
       <div class="col-6 col-12-small">
+        <h3>✨ Golden Soy Sauce</h3>
+        <p>Our house-made soy sauce is aged, balanced, and unlike anything 
+        you've tasted in a bibimbap with a Savory depth .</p>
+      </div>
+
+      <div class="col-6 col-12-small">
         <h3>🌿 Seasonal Vegetables</h3>
         <p>Hand-picked local greens from local farms. 
         Blanched, seasoned, and arranged with care. 
@@ -50,11 +56,7 @@ nav-menu: false
         <h3>🍚 Timeless Korean Yugi Bowl </h3>
         <p> Authentic Korean flavors, freshly prepared and served in timeless Korean Yugi(Brass) Bowl. </p>
       </div>
-      <div class="col-6 col-12-small">
-        <h3>✨ Golden Soy Sauce</h3>
-        <p>Our house-made soy sauce is aged, balanced, and unlike anything 
-        you've tasted in a bibimbap with a Savory depth .</p>
-      </div>
+      
     </div>
 
     <hr class="major" />
