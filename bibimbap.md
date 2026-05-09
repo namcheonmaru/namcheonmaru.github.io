@@ -52,12 +52,11 @@ nav-menu: false
         <h3>🍚 Timeless Korean Yugi Bowl </h3>
         <p> Authentic Korean flavors, freshly prepared and served in timeless Korean Yugi(Brass) Bowl. </p>
       </div>
-      
     </div>
 
     <hr class="major" />
 
-    <h2>How to Eat It</h2>
+    <h2> How to Eat It </h2>
     <p>
       The art of bibimbap is in the mix. Pour the golden soy sauce over the bowl, 
       then fold everything together with a traditional Korean metal chopsticks — slowly, deliberately. 
