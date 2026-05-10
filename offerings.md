@@ -32,20 +32,21 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">🍜 Red Bean Noodle Soup (팥칼국수) — ₩10,000</h2>
+    <h2 style="color: #E6D5B8;">🍜 Chilled Buckwheat Soba (냉소바) — ₩10,000</h2>
     <p>
-      Hand-cut wheat noodles simmered in our signature red bean broth.
-      Subtly sweet, deeply savory, wholly plant-based.
-      A uniquely Jeonju experience — warm, nourishing, unlike anything you've tried before.
+      Escape the heat. Chilled soba noodles bathed in an icy, deeply savory broth —
+      a revitalizing bowl that arrives cool and leaves you refreshed.
+      Available seasonally.
     </p>
 
     <hr class="major" />
-
-    <h2 style="color: #E6D5B8;">🍜 Clam Noodle Soup (칼국수) — ₩10,000</h2>
+    
+    <h2 style="color: #E6D5B8;">🍜 Clam Noodle Soup (칼국수) — ₩8,000</h2>
     <p>
       Hand-cut noodles in a clean, briny clam broth — light yet deeply satisfying.
       The kind of bowl that tastes like the sea on a quiet afternoon.
     </p>
+
 
     <hr class="major" />
 
@@ -55,25 +56,17 @@ nav-menu: false
       Naturally sweet, warming, entirely plant-based.
       A bowl that feels like a quiet moment of stillness.
     </p>
-
+   
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">🍜 Chilled Buckwheat Soba (냉소바) — ₩10,000</h2>
+    <h2 style="color: #E6D5B8;">🍜 Red Bean Noodle Soup (팥칼국수) — ₩10,000</h2>
     <p>
-      Escape the heat. Chilled soba noodles bathed in an icy, deeply savory broth —
-      a revitalizing bowl that arrives cool and leaves you refreshed.
-      Available seasonally.
+      Hand-cut wheat noodles simmered in our signature red bean broth.
+      Subtly sweet, deeply savory, wholly plant-based.
+      A uniquely Jeonju experience — warm, nourishing, unlike anything you've tried before.
     </p>
 
-    <hr class="major" />
-
-    <h2 style="color: #E6D5B8;">🍜 Seafood Noodle Soup (칼국수) — ₩8,000</h2>
-    <p>
-    Hand-cut noodles pulled through a broth built slowly from the sea —
-    clams, kelp, and the kind of depth that only patience produces.
-    Clean on the surface, complex underneath.
-    </p>
-
+   
     <hr class="major" />
 
     <h2 style="color: #E6D5B8;">🥟 Tender Dumplings (만두) — ₩5,000</h2>
@@ -88,7 +81,6 @@ nav-menu: false
 
     <ul class="actions">
       <li><a href="index.html" class="button">← Back to Home</a></li>
-      <li><a href="#footer" class="button next scrolly">Reserve a Table</a></li>
     </ul>
 
   </div>
