@@ -76,7 +76,7 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">🥟 Tender Dumplings (만두) — ₩8,000</h2>
+    <h2 style="color: #E6D5B8;">🥟 Tender Dumplings (만두) — ₩5,000</h2>
     <p>
       Small bites, considered flavor. Each dumpling is folded by hand and packed with
       a savory blend of premium ingredients — a satisfying burst in every bite.

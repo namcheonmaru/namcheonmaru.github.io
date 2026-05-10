@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6,
   word-spacing: normal !important;
   max-width: 900px;
   line-height: 2;
-  color: #D4A017 !important;
+  color: #E6D5B8 !important;
 }
 
 #one.tiles article {
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6,
 
 // bibimbap 타일 배경 이미지
 #one.tiles article:nth-child(1) {
-  background-image: url('https://res.cloudinary.com/daz6qvavi/image/upload/w_600,h_400,c_fill,f_auto,q_auto/v1778305927/bibimbap_qxlzrj.png') !important;
+  background-color: #f0bc52 !important;
   background-size: cover !important;
   background-position: center !important;
 }
