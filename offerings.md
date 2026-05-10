@@ -58,7 +58,7 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">🍣 Chilled Buckwheat Soba (냉소바) — ₩10,000</h2>
+    <h2 style="color: #E6D5B8;">🍜 Chilled Buckwheat Soba (냉소바) — ₩10,000</h2>
     <p>
       Escape the heat. Chilled soba noodles bathed in an icy, deeply savory broth —
       a revitalizing bowl that arrives cool and leaves you refreshed.
@@ -67,21 +67,22 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">🥟 Handmade Dumplings (만두) — ₩8,000</h2>
+    <h2 style="color: #E6D5B8;">🍜 Seafood Noodle Soup (칼국수) — ₩8,000</h2>
     <p>
-      Small bites, considered flavor. Each dumpling is folded by hand and packed with
-      a savory blend of premium ingredients — a satisfying burst in every bite.
-      Served steamed or pan-fried upon request.
+    Hand-cut noodles pulled through a broth built slowly from the sea —
+    clams, kelp, and the kind of depth that only patience produces.
+    Clean on the surface, complex underneath.
     </p>
 
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">Good to Know</h2>
-    <ul>
-      <li><strong>Hours:</strong> 11:00 AM – 7:00 PM (Last order 6:40 PM)</li>
-      <li><strong>Break time:</strong> 3:00 PM – 5:00 PM</li>
-      <li><strong>Closed:</strong> Every Tuesday</li>
-    </ul>
+    <h2 style="color: #E6D5B8;">🥟 Tender Dumplings (만두) — ₩8,000</h2>
+    <p>
+      Small bites, considered flavor. Each dumpling is folded by hand and packed with
+      a savory blend of premium ingredients — a satisfying burst in every bite.
+    </p>
+
+    
 
     <hr class="major" />
 
