@@ -13,10 +13,10 @@ nav-menu: false
     </header>
 
     <p>
-      Jeonju Hanok Village is not a place you rush through.
-      Its 700-plus traditional houses, narrow earthen lanes, and centuries-old temples
-      reward those who arrive without an itinerary and leave without looking at the time.
-      This is our quiet guide — the places we love, the paths worth taking slowly.
+    Jeonju Hanok Village is not a place you pass through quickly.
+    Seven hundred traditional houses, lanes worn smooth by time — they open slowly, to those who let them.
+    Come without an itinerary. Leave without checking the hour.
+    This is our quiet guide — the places we love, the paths worth taking at your own pace.
     </p>
 
     <hr class="major" />
@@ -60,20 +60,13 @@ nav-menu: false
 
     <hr class="major" />
 
-    <h2 style="color: #E6D5B8;">Getting Here</h2>
-    <ul>
-      <li><strong>Address:</strong> 66, Jeonjucheondong-ro, Wansan-gu, Jeonju-si, Jeonbuk-do</li>
-      <li><strong>From Jeonju Station:</strong> Bus 79 or 537 → Hanok Village stop (approx. 20 min)</li>
-      <li><strong>From Jeonju Bus Terminal:</strong> Bus 119 or taxi (approx. 15 min)</li>
-      <li><strong>Parking:</strong> Public lots available near the village entrance. Weekends fill early.</li>
-    </ul>
-
+    
     <hr class="major" />
 
     <h2 style="color: #E6D5B8;">A Few Quiet Suggestions</h2>
     <ul>
       <li>The village before 9 AM belongs almost entirely to you. Come early.</li>
-      <li>Wear shoes you don't mind on cobblestone. The best lanes are unpaved.</li>
+      <li>Wear shoes you don't mind on cobblestone.</li>
       <li>Most shops open around 10 AM. The cafés, slightly later.</li>
       <li>If it rains, stay. The hanok village in the rain is a different, quieter thing.</li>
     </ul>
@@ -82,7 +75,6 @@ nav-menu: false
 
     <ul class="actions">
       <li><a href="index.html" class="button">← Back to Home</a></li>
-      <li><a href="#footer" class="button next scrolly">Find Us</a></li>
     </ul>
 
   </div>
