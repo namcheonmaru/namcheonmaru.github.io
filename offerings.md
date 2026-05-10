@@ -75,7 +75,25 @@ nav-menu: false
       a savory blend of premium ingredients — a satisfying burst in every bite.
     </p>
 
-    
+    <hr class="major" />
+
+    <h2 style="color: #E6D5B8">🥢 Complimentary Side Dishes</h2>
+    <p>Every dish is served with our house-prepared banchan (Korean side dishes):</p>
+    <ul>
+      <li>
+        <strong>Geotjeori Kimchi (겉절이 김치)</strong> — Fresh, lightly seasoned kimchi. Crisp and vibrant.
+        <br /><em>Please note: our kimchi is made with fish sauce. It is not suitable for strict vegans or pescatarian-free diets.</em>
+      </li>
+      <li>
+        <strong>Kkakdugi (깍두기)</strong> — Cubed radish kimchi with a satisfying crunch and gentle tang.
+        <br /><em>Please note: our kkakdugi also contains fish sauce. Please let us know if you have any concerns.</em>
+      </li>
+      <li>
+        <strong>Danmuji (단무지)</strong> — Sweet pickled radish. A classic Korean table staple. Fully plant-based.
+      </li>
+    </ul>
+    <p><em>All side dishes are made in-house and refreshed daily. If you have specific dietary requirements, please don't hesitate to ask — we're always happy to help.</em></p>
+
 
     <hr class="major" />
 
