@@ -23,7 +23,7 @@ nav-menu: false
     <p>
       Our signature dish. Soy Sauce Bibimbap replaces the conventional gochujang with a deeply savory,
       house-aged golden soy sauce — crafted from a recipe passed down through generations.
-      Fresh mountain herbs, seasonal vegetables, premium rice. Pure umami, no heat.
+      Fresh mountain herbs, seasonal vegetables, premium rice. Pure umami, little heat.
     </p>
     <ul>
       <li><strong>Minimum order:</strong> 2 persons. If other guests are already ordering, 1 person is welcome — please inquire.</li>
@@ -73,6 +73,7 @@ nav-menu: false
     <p>
       Small bites, considered flavor. Each dumpling is folded by hand and packed with
       a savory blend of premium ingredients — a satisfying burst in every bite.
+      "Available exclusively with any main dish order."
     </p>
 
     <hr class="major" />
