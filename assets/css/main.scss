@@ -163,3 +163,15 @@ h1, h2, h3, h4, h5, h6,
 #one.tiles article:nth-child(9),
 #one.tiles article:nth-child(9)::before,
 #one.tiles article:nth-child(9)::after { background-color: #7D5A50 !important; }
+
+/* Contact + Footer section — all text color */
+#contact h2,
+#contact h3,
+#contact p,
+#contact a,
+#contact .contact-method h3,
+#good-to-know h2,
+#good-to-know h3,
+#good-to-know p {
+    color: #E6D5B8 !important;
+}
